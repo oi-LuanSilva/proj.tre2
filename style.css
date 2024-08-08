@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: rgba(20, 189, 189, 0.751);
+}
+
+main {
+  margin: 28px;
+}
+
+p {
+  margin: 15px;
+  font-family: georgia;
+  font-size: 18px;
+}
+
+img {
+  width: 237px;
+  height: 229px;
+  left: 120px;
+  border-radius: 150px;
+  top: 16px;
+}
+
+h1 {
+  color: coral;
+  font-family: serif;
+  font-size: 36px;
+}
+
+ul {
+  margin: 15px;
+  font-family: serif;
+  font-size: 18px;
+}
+
+ol {
+  margin: 15px;
+  font-family: serif;
+  font-size: 18px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  border: 22px;
+  height: 30px;
+  background-color: chocolate;
+  padding: 10px;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+h3 {
+  font-family: georgia;
+  font-size: 16px;
+}/*# sourceMappingURL=style.css.map */
